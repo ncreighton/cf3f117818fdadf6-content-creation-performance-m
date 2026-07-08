@@ -1,2 +1,28 @@
-# cf3f117818fdadf6-content-creation-performance-m
-The content creation tool you'd build yourself — if you had the time.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Content Creation Performance Metrics — fully configured and ready to use - Pre-built databases with re
+# Content Creation Performance Metrics Dashboard
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFacN55iT7Eoe00gUccZH20)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFacN55iT7Eoe00gUccZH20)
+
